@@ -1,2 +1,2 @@
-ubuntu01
-ubuntu02
+ubuntu01 apache_package=apache2 php_package=libapache2-mod-php
+ubuntu02 apache_package=apache2 php_package=libapache2-mod-php
