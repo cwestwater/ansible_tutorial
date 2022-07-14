@@ -6,3 +6,6 @@ ubuntu02
 
 [file_servers]
 ubuntu03
+
+[workstations]
+ansible01
